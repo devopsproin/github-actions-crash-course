@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/github-actions-crash-course/static/css/main.073c9b0a.css",
-    "main.js": "/github-actions-crash-course/static/js/main.9c002f1f.js",
+    "main.js": "/github-actions-crash-course/static/js/main.d21bfada.js",
     "static/js/787.dd9a8d66.chunk.js": "/github-actions-crash-course/static/js/787.dd9a8d66.chunk.js",
     "static/media/logo.svg": "/github-actions-crash-course/static/media/logo.16b63f3cde49a58f69098d2ad30bf094.svg",
     "index.html": "/github-actions-crash-course/index.html",
     "main.073c9b0a.css.map": "/github-actions-crash-course/static/css/main.073c9b0a.css.map",
-    "main.9c002f1f.js.map": "/github-actions-crash-course/static/js/main.9c002f1f.js.map",
+    "main.d21bfada.js.map": "/github-actions-crash-course/static/js/main.d21bfada.js.map",
     "787.dd9a8d66.chunk.js.map": "/github-actions-crash-course/static/js/787.dd9a8d66.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.9c002f1f.js"
+    "static/js/main.d21bfada.js"
   ]
 }

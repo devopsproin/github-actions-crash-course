@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Github Actions - By DevOps Pro</p>
+        <p>Github Actions Tutorial - By DevOps Pro</p>
         <a
           className="App-link"
           href="https://youtube.com/@DevOpsPro"

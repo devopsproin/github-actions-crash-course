@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Step-by-Step Guide to Create an AWS EC2 Instance with Terraform | Terraform Tutorials in Hindi](https://www.youtube.com/watch?v=IBvf01amJsg)
 - [Unlock the Power of Terraform | AWS Account Setup &amp; IAM User Creation | Terraform tutorial](https://www.youtube.com/watch?v=ZQ4t_fm9UvA)
 - [What is Terraform? | Terraform tutorial for beginners in Hindi | Terraform Explained](https://www.youtube.com/watch?v=d8z1J4-1uMc)
 - [Launching DevOps Pro Membership: Unlock Exclusive Perks &amp; Master DevOps!](https://www.youtube.com/watch?v=nsPY82DO3go)
 - [Master DevOps: Explore Life Cycle Phases and DevOps Tools in Hindi | DevOps Tutorial for Beginners](https://www.youtube.com/watch?v=xd0GA4uyK14)
-- [What is DevOps? | DevOps Tutorial for Beginners in Hindi | DevOps Explained in Hindi](https://www.youtube.com/watch?v=8eRLz62Ef-M)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts

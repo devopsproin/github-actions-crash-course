@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Terraform Destroy Command: Learn 3 Ways to Terminate Resources | Terraform Tutorials in Hindi](https://www.youtube.com/watch?v=hBkQt5lbSw0)
 - [Create AWS EC2 Instance with Terraform Init, Plan, Apply Command | Terraform Tutorials in Hindi](https://www.youtube.com/watch?v=XnaHAU7mTDM)
 - [Step-by-Step Guide to Create an AWS EC2 Instance with Terraform | Terraform Tutorials in Hindi](https://www.youtube.com/watch?v=IBvf01amJsg)
 - [Unlock the Power of Terraform | AWS Account Setup &amp; IAM User Creation | Terraform tutorial](https://www.youtube.com/watch?v=ZQ4t_fm9UvA)
 - [What is Terraform? | Terraform tutorial for beginners in Hindi | Terraform Explained](https://www.youtube.com/watch?v=d8z1J4-1uMc)
-- [Launching DevOps Pro Membership: Unlock Exclusive Perks &amp; Master DevOps!](https://www.youtube.com/watch?v=nsPY82DO3go)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts

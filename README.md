@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Secure AWS Provisioning with Terraform: Access Key-Free Setup  | Terraform Tutorials in Hindi](https://www.youtube.com/watch?v=TEtL1Ihdsic)
 - [Current State and Desired State in Terraform | Terraform Tutorials for Beginners in Hindi](https://www.youtube.com/watch?v=vF_wB7LHjKc)
 - [Terraform State File Explained: From Basics to Advanced | Terraform Tutorials in Hindi](https://www.youtube.com/watch?v=GXFk03Qb-gU)
 - [Terraform Destroy Command: Learn 3 Ways to Terminate Resources | Terraform Tutorials in Hindi](https://www.youtube.com/watch?v=hBkQt5lbSw0)
 - [Create AWS EC2 Instance with Terraform Init, Plan, Apply Command | Terraform Tutorials in Hindi](https://www.youtube.com/watch?v=XnaHAU7mTDM)
-- [Step-by-Step Guide to Create an AWS EC2 Instance with Terraform | Terraform Tutorials in Hindi](https://www.youtube.com/watch?v=IBvf01amJsg)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts

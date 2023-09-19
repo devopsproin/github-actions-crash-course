@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Data Types In Terraform Variables - Numbers, Strings, Lists, and Maps | Terraform Tutorials in Hindi](https://www.youtube.com/watch?v=Cm9pTqzImXc)
 - [Terraform Variables Explained in Hindi: Part 1 - Beginners to Experts | Terraform Tutorials in Hindi](https://www.youtube.com/watch?v=S6zOAflfUJc)
 - [Beginner&#39;s Guide to Terraform Commands: Create, Validate, Replace &amp; Optimise AWS Resources](https://www.youtube.com/watch?v=zq_eOvy_9l0)
 - [Secure AWS Provisioning with Terraform: Access Key-Free Setup  | Terraform Tutorials in Hindi](https://www.youtube.com/watch?v=TEtL1Ihdsic)
 - [Current State and Desired State in Terraform | Terraform Tutorials for Beginners in Hindi](https://www.youtube.com/watch?v=vF_wB7LHjKc)
-- [Terraform State File Explained: From Basics to Advanced | Terraform Tutorials in Hindi](https://www.youtube.com/watch?v=GXFk03Qb-gU)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts

@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Conditional Expressions in Terraform  | Terraform Conditional Expressions Tutorial in Hindi](https://www.youtube.com/watch?v=y27jjcrQAHE)
 - [Terraform Count and Count Index Explained - Create Multiple AWS Instances  | Terraform Tutorials](https://www.youtube.com/watch?v=62t5oKQOfNA)
 - [Data Types In Terraform Variables - Numbers, Strings, Lists, and Maps | Terraform Tutorials in Hindi](https://www.youtube.com/watch?v=Cm9pTqzImXc)
 - [Terraform Variables Explained in Hindi: Part 1 - Beginners to Experts | Terraform Tutorials in Hindi](https://www.youtube.com/watch?v=S6zOAflfUJc)
 - [Beginner&#39;s Guide to Terraform Commands: Create, Validate, Replace &amp; Optimise AWS Resources](https://www.youtube.com/watch?v=zq_eOvy_9l0)
-- [Secure AWS Provisioning with Terraform: Access Key-Free Setup  | Terraform Tutorials in Hindi](https://www.youtube.com/watch?v=TEtL1Ihdsic)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts

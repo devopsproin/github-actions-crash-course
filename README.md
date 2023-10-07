@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Terraform Local Values Explained | Locals in Terraform | Terraform Tutorials in Hindi](https://www.youtube.com/watch?v=ldK_98oPjMc)
 - [WordPress Deployment on AWS EC2 and RDS | Step-by-Step Guide for Two-Tier Environment | DevOps Pro](https://www.youtube.com/watch?v=R04upb-Uac4)
 - [GitHub Actions Crash Course for beginners with Projects | GitHub Action Tutorial in Hindi](https://www.youtube.com/watch?v=bSBaAspgmhU)
 - [Conditional Expressions in Terraform  | Terraform Conditional Expressions Tutorial in Hindi](https://www.youtube.com/watch?v=y27jjcrQAHE)
 - [Terraform Count and Count Index Explained - Create Multiple AWS Instances  | Terraform Tutorials](https://www.youtube.com/watch?v=62t5oKQOfNA)
-- [Data Types In Terraform Variables - Numbers, Strings, Lists, and Maps | Terraform Tutorials in Hindi](https://www.youtube.com/watch?v=Cm9pTqzImXc)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts

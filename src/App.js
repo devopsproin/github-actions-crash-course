@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           {process.env.REACT_APP_WELCOME_TEXT || "Github Actions Tutorial"} - By
-          DevOps Pro
+          DevOps Pro Ganesh Sanap
         </p>
         <a
           className="App-link"

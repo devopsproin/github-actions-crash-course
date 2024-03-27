@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
-
+- [Mastering DevOps  Essential Skills Unveiled](https://www.youtube.com/watch?v=hiULj9ulj-E)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts

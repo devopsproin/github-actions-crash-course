@@ -2,7 +2,7 @@
   "name": "github-actions-crash-course",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://devopspro.github.io/github-actions-crash-course",
+  "homepage": "https://github.com/ganeshsnp987/github-actions-crash-course.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

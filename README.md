@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Named Templates in Helm Charts | Helm Charts with Named Templates | Named Templates in Helm Charts](https://www.youtube.com/watch?v=E7V9LJCjoUU)
 - [Range in Helm Chart | Use Range Block in Helm | Advanced Helm Tutorial in Hindi | Helm Range Blocks](https://www.youtube.com/watch?v=MHLqyj-k_As)
 - [With Block in Helm | Advanced Helm Tutorials | Use with in helm chart | Flow Controls in Helm | Helm](https://www.youtube.com/watch?v=XVX50_zq8Bc)
 - [If-Else Conditions in Helm Templates | Helm Template If-Else Tutorial | Helm Advance Tutorial](https://www.youtube.com/watch?v=CFFUu9LyJ7w)
 - [Functions in Helm Charts | Helm Template Functions | Helm Functions Tutorial | Helm Tutorials](https://www.youtube.com/watch?v=624cjQpK0xQ)
-- [Step-by-Step Guide to Deploy WordPress using Helm | Helm Tutorial for Beginners | Deploy WordPress](https://www.youtube.com/watch?v=LJLYmm0L_YA)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts

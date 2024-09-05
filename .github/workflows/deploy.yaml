@@ -15,21 +15,18 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-
+      
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 18
-
       - name: Install dependencies
         run: npm install
 
       - name: Build Project
         run: npm run build
-        env:
-          REACT_APP_WELCOME_TEXT: ${{ vars.REACT_APP_WELCOME_TEXT }}
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy to Github
         uses: JamesIves/github-pages-deploy-action@4.1.0
         with:
           branch: gh-pages
